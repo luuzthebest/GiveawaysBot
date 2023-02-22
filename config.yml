@@ -2,10 +2,10 @@
 prefix: "!"
 
 # The role which can run Giveaway commands
-giveaway_role: "Giveaway"
+giveaway_role: "Giveaways Launcher"
 
 # Set what the bot is currently playing
-bot_status_text: "🎉 | Giveaways"
+bot_status_text: "🎉 | Giveaways, Join Lvvz Services !"
 
 # IDLE, DND, ONLINE, OFFLINE
 bot_activity: idle
