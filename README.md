@@ -1,5 +1,5 @@
 ![](https://cdn.discordapp.com/attachments/845762704907960323/845824626512756736/MODERN_LEVELS_9.png)
-<p><b>Giveaway Cord</b> allows you to host Giveaways inside of <b>Discord</b>! Need help? Join the Support Server https://discord.gg/HwJhy88aGm</p>
+<p><b>Giveaway Cord</b> allows you to host Giveaways inside of <b>Discord</b>! </p>
 <h3>To install <b>Requirements :</b></h3> 
 	 <pre><p> <i>Run 'install.bat'</i></p></pre>
 <p> *No Database is required!* </p>
